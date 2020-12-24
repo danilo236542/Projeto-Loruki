@@ -47,6 +47,11 @@ code, pre{
     color: #fff;
     padding: 10px;
 }
+
+.hidden{
+    visibility: hidden;
+    height: 0;
+}
 /* NAVBAR */
 .navbar{
     background-color: var(--primary-color);
@@ -72,6 +77,8 @@ code, pre{
 .navbar .flex{
     justify-content:space-between;
 }
+
+
 
 /* Showcase */
 .showcase{
